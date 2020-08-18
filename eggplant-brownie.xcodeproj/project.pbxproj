@@ -24,6 +24,7 @@
 		E0CF4D3C24E73398005E6B0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0CF4D3F24E73398005E6B0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0CF4D4124E73398005E6B0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0E6EB1D24EC3D3100449B28 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				E0CF4D3924E73397005E6B0F /* Main.storyboard */,
 				E0CF4D3C24E73398005E6B0F /* Assets.xcassets */,
 				E0CF4D3E24E73398005E6B0F /* LaunchScreen.storyboard */,
+				E0E6EB1D24EC3D3100449B28 /* MyPlayground.playground */,
 				E0CF4D4124E73398005E6B0F /* Info.plist */,
 			);
 			path = "eggplant-brownie";
